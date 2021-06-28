@@ -1,0 +1,86 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+.header{
+    background-color: #F0FFF0;
+}
+.nav-logo{
+    width: 200px;
+}
+.nav-link{
+    color: black !important;
+    margin-right: 10px;
+}
+.nav-btn{
+    background: #21B573;
+    color: white;
+    border: 0;
+    border-radius: 5em;
+    font-size: 14px;
+    padding: 2px 15px;
+}
+.orange{
+    color: #FD511A;
+}
+h1, h3{
+    font-weight: bold;
+}
+.green{
+    color: #21B573;
+}
+p{
+    font-weight: 400;
+}
+.btn{
+    background: #21B573;
+    color: white;
+    border: 0;
+    border-radius: 5em;
+    font-size: 14px;
+    padding: 12px 36px;
+}
+.col-md-2{
+    margin: 10px 35px;
+    padding: 20px 10px;
+    text-align: center;
+    background-color: white;
+    border-radius: 1em;
+}
+.col-md-2 img{
+    width: 50%;
+}
+.col-md-2 h6{
+    color: #585859;
+}
+.col-md-2 h5{
+    color: #413960;
+}
+.shadow-custom{
+    box-shadow: 0px 10px 15px lightgray;
+}
+.c413960{
+    color: #413960;
+    text-align: center;
+}
+.course-cls{
+    width: 20px;
+}
+.inline{
+    display: inline;
+}
+.card-title{
+    color: #413960;
+}
+.text-500{
+    font-weight: 500;
+}
+.testimonial{
+    padding-left: 150px !important;
+    padding-right: 150px !important
+}
+.footer, .footer h6{
+    background: #282531;
+    color: white;
+    font-weight: 300;
+}
